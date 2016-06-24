@@ -7,7 +7,11 @@ date:   2016-03-30 19:45:31 +0530
 Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
 
 <<<<<<< HEAD:_posts/2016-03-30-welcome-to-Gravity.markdown
+<<<<<<< HEAD:_posts/2016-03-30-welcome-to-Gravity.markdown
 Some General Instructions for Jekyll,
+=======
+Some General Instructions for Jekyll
+>>>>>>> hemangsk/master:_posts/2016-03-30-welcome-to-jekyll.markdown
 =======
 Some General Instructions for Jekyll
 >>>>>>> hemangsk/master:_posts/2016-03-30-welcome-to-jekyll.markdown

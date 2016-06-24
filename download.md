@@ -21,7 +21,11 @@ tagline: "Loved it? Download Gravity"
 </div>
 <center>GitHub Repository
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2><a href="http://github.com/hemangsk/Gravity"><i class="fa fa-github"></i></a></h2>
+=======
+<a href="http://github.com/hemangsk/Gravity"><p><i class="fa fa-github"></i></p></a>
+>>>>>>> hemangsk/master
 =======
 <a href="http://github.com/hemangsk/Gravity"><p><i class="fa fa-github"></i></p></a>
 >>>>>>> hemangsk/master
