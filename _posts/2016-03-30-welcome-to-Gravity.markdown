@@ -6,7 +6,11 @@ date:   2016-03-30 19:45:31 +0530
 ---
 Gravity is an unopinionated theme for Jekyll, the awesome static site generator.
 
+<<<<<<< HEAD:_posts/2016-03-30-welcome-to-Gravity.markdown
 Some General Instructions for Jekyll,
+=======
+Some General Instructions for Jekyll
+>>>>>>> hemangsk/master:_posts/2016-03-30-welcome-to-jekyll.markdown
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

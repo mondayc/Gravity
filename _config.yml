@@ -9,8 +9,13 @@
 title: Gravity
 email: hemangsk@gmail.com
 description: The Liberal Jekyll Theme
+<<<<<<< HEAD
 baseurl: "/Gravity" # the subpath of your site, e.g. /blog
 url: "http://hemangsk.github.io/Gravity" # the base hostname & protocol for your site
+=======
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+>>>>>>> hemangsk/master
 twitter_username: hemang_kumar
 github_username:  hemangsk
 
